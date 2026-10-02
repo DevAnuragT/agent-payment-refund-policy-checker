@@ -1,0 +1,5 @@
+{
+  "refund_within_paid_amount": true,
+  "refund_within_policy_window": true,
+  "transaction_reference": "txn-482"
+}

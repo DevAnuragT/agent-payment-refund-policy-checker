@@ -1,0 +1,11 @@
+spec_version: "0.1.0"
+name: payment-refund-policy-checker
+version: 0.1.0
+description: "Checks caller-provided refund calculations and deadline eligibility before human review."
+skills:
+  - payment-refund-policy-checker-skill
+tools:
+  - audit-payment-refund-policy-checker
+tags:
+  - commerce-operations
+  - evidence-driven
